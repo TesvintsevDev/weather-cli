@@ -10,5 +10,5 @@ npm install
 		-h для вывода помощи
 		-t [API_KEY] для сохранения токена	
 ```
-## API KEY See [Open Weather](https://openweathermap.org).
+## API KEY: [Open Weather](https://openweathermap.org).
 
