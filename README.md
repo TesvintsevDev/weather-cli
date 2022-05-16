@@ -1,4 +1,4 @@
-# weather-cli
+# weather-cli Node JS
 ## Helper command
 ```
 Без параметров - вывод погоды
