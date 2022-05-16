@@ -1,5 +1,9 @@
 # weather-cli Node JS
-## Helper command
+## Project setup
+```
+npm install
+```
+## Helper commands
 ```
 Без параметров - вывод погоды
 		-s [CITY] для установки города
